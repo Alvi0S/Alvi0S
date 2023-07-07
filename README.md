@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, i am alvi<br>
+Just a Cyber Mf<br>
 <h3 align="center">A passionate CyberSecurity from Albania</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/myPHsReL2YIAAAAd/hacker.gif">
 
