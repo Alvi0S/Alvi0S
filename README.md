@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Just a Cyber Mf<br>
 <h3 align="center">A passionate CyberSecurity from Albania</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/myPHsReL2YIAAAAd/hacker.gif">
@@ -14,8 +14,6 @@ Just a Cyber Mf<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alvi0s&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvi0s&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alvi0s&icon=2&color=0)](https://visitcount.itsvg.in)
